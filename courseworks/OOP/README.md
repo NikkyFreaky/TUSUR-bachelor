@@ -38,7 +38,7 @@
 1. Склонировать репозиторий
 
    ```bash
-   git clone https://github.com/your_username/ColorDecoder.git
+   git clone https://github.com/NikkyFreaky/TUSUR-bachelor.git
    ```
 
 2. Открыть проект в Visual Studio

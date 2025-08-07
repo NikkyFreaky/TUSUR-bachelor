@@ -1,8 +1,6 @@
 # ColorDecoder – Определение кодировки цвета изображения
 
-<img src="https://img.shields.io/badge/language-C%23%20%2B%20WPF-blue.svg" />
-<img src="https://img.shields.io/badge/UI-XAML-lightgrey.svg" />
-<img src="https://img.shields.io/badge/tested%20with-NUnit-green.svg" />
+<img src="https://img.shields.io/badge/language-C%23%20%2B%20WPF-blue.svg" /> <img src="https://img.shields.io/badge/UI-XAML-lightgrey.svg" /> <img src="https://img.shields.io/badge/tested%20with-NUnit-green.svg" />
 
 > WPF-приложение на C#, позволяющее загружать изображение, определять цвет любого пикселя по клику, а также находить топ-5 часто встречающихся цветов.
 

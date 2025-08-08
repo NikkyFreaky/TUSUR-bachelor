@@ -5,7 +5,6 @@
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3-3178C6)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16.1.0-336791)
-![License](https://img.shields.io/badge/License-Educational-brightgreen)
 
 Курсовая работа по дисциплине «Организация баз данных» – программная система для эффективного сбора и предоставления актуальных новостей с различных источников.
 
